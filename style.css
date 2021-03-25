@@ -1,0 +1,63 @@
+css
+
+body {
+    font-family: 'Arial',monospace;
+    min-height: 400px;
+    background-image: url('https://evanevanstours.com/blog/wp-content/uploads/2019/02/pinpep_harry_potter_028-scaled.jpg');
+    background-size: 100vh;
+    background-position: center bottom;
+    background-repeat: no-repeat;
+  }
+  
+  .container {
+    text-align: center;
+    padding: 20px;
+    height: 100vh;
+  }
+
+  .container .box {
+    width: 280px;
+    height: 180px;
+    background-color:#CFCFCF;
+    border-radius: 10px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.411);
+    padding: 30px 10px 10px 10px;
+    font-size: 20px;
+    line-height: 1.5;
+    margin: 20px auto;
+}
+  
+  .page_title {
+    text-align: center;
+    color: white;
+    margin: 0 0 5px;
+  }
+  
+  .page_subtitle {
+    text-align: center;
+    color: white;
+    margin-top: 5px;
+    font-size: 30px;
+  }
+  
+  .page-logo {
+    width: 200px;
+    position: absolute;
+    top: 10px;
+    left:10px;
+  }
+  
+  .alura-logo {
+    width: 40px;
+    position: absolute;
+    top: 50px;
+    left:10px;
+  }
+
+  p2 {
+    color:white;
+    position:relative;
+    left:15px;
+    bottom: 2px;
+  }
+
